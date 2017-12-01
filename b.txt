@@ -14,4 +14,8 @@ DISPLAY  "doubler(0)=" doubler(0) SKIP
 =======
   "doubler(2)=" doubler(2) skip.
 >>>>>>> 76ff536fddb13cc2c42a4abc35e31a2f49ca726d
+<<<<<<< HEAD
  "doubler(2)=" doubler(2) skip.
+=======
+"doubler(2)=" doubler(2) skip.
+>>>>>>> 076d58a7eb6d6b9fd93ca50394a87abed0a2d0e1
