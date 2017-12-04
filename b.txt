@@ -9,9 +9,4 @@ END FUNCTION.
 /* Reference doubler() */
 DISPLAY  "doubler(0)=" doubler(0) SKIP
   "doubler(1)=" doubler(1) skip
-<<<<<<< HEAD
-  "doubler(2)=" doubler(2) skip. 
-=======
   "doubler(2)=" doubler(2) skip.
->>>>>>> 76ff536fddb13cc2c42a4abc35e31a2f49ca726d
-"doubler(2)=" doubler(2) skip.
