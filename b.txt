@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* r-udf1.p */
 /* Defines and references a user-defined function */
 
@@ -10,5 +11,11 @@ END FUNCTION.
 DISPLAY  "doubler(0)=" doubler(0) SKIP
   "doubler(1)=" doubler(1) skip
   "doubler(2)=" doubler(2) skip.
+<<<<<<< Updated upstream
 aa
 bb
+=======
+=======
+tretrdettytyuyt
+>>>>>>> deleting words
+>>>>>>> Stashed changes
