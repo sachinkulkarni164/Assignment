@@ -12,3 +12,4 @@ DISPLAY  "doubler(0)=" doubler(0) SKIP
   "doubler(2)=" doubler(2) skip.
 aa
 bb
+
