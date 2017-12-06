@@ -1,0 +1,1 @@
+define varialble iNumber as integer no-undo.
